@@ -1,20 +1,11 @@
-Python libraries used
-
-1. Scispacy Env (Topic Modeling)
 Python == 3.6.13
 Spacy == 2.3.5
-Scispacy == 0.4.0 * and corresponding language models
+Scispacy == 0.4.0
 gensim == 4.0.1
 scikit-learn == 0.24.1
-
-2. Bioservices Env (Retrieve KEGG pathways and Network Analysis)
-Python == 3.7.9
 Bioservices == 1.7.11
-Networkx == 2.5.1
-
-
-3. Biopython Env (PubMed abstracts download)
-Python === 3.8.10
 Biopython == 1.78
+Networkx == 2.5
+
 
 
