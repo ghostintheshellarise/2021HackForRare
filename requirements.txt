@@ -1,11 +1,11 @@
-Python == 3.6.8
-Spacy == 2.3.5
-Scispacy == 0.4.0
+python == 3.6.8
+spacy == 2.3.5
+scispacy == 0.4.0
 gensim == 4.0.1
 scikit-learn == 0.24.1
-Bioservices == 1.7.11
-Biopython == 1.78
-Networkx == 2.5
+bioservices == 1.7.11
+biopython == 1.78
+networkx == 2.5
 
 
 
