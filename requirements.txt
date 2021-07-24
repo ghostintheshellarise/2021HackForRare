@@ -1,4 +1,4 @@
-Python == 3.6.13
+Python == 3.6
 Spacy == 2.3.5
 Scispacy == 0.4.0
 gensim == 4.0.1
